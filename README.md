@@ -25,4 +25,4 @@ Software for automatic connection to servers in Roblox from logs in Chilli Hub (
 7. F2 - pause/resume the script.
 
 ## ⭐ Project support
-- If you found this script useful, please give it a star ⭐ on the repository. This motivates me to develop it further and create new projects.
+- If you found this script useful, please give it a stars ⭐ on the repository. This motivates me to develop it further and create new projects.
